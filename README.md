@@ -1,2 +1,2 @@
 # Text-to-Speech-Python-Chatbot
-Build a ChatBot using Python, NLTK, Tklinter, Numpy, Pysttx3 that converts Text to Text as well as Text to Speech 
+Build a ChatBot using Python, NLTK, Tkinter, Numpy that will give answers to your python related queries with the help of both Text to Text as well as Text to Speech medium.
